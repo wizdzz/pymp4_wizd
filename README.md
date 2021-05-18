@@ -1,3 +1,15 @@
+# Original repository
+https://github.com/beardypig/pymp4
+
+# What have i modified
+1. Add more file support, such like 'vpcc' encoding
+2. Fix some bugs
+3. Improve some methods
+
+# Why not push request to the original repository
+There are too much incompatible code with the origin, so i decide to create a new one.
+
+
 # pymp4
 Python MP4 box parser and toolkit
 
